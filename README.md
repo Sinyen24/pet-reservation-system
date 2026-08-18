@@ -55,28 +55,22 @@ Data is stored using file handling, allowing records such as users, pets, bookin
 ## 🖥️ Sample Output
 
 ### Main Menu
+![Main Menu](screenshots/MainMenu.png)
 
-![Main Menu](screenshots/main-menu.png)
-
-### User Registration & Login
-
-![Registration and Login](screenshots/registration-login.png)
+### User Registration
+![User Registration](screenshots/UserRegistration.png)
 
 ### Client Dashboard
-
-![Client Dashboard](screenshots/client-dashboard.png)
+![Client Dashboard](screenshots/ClientDashboard.png)
 
 ### Service Booking
-
-![Booking Process](screenshots/booking-process.png)
+![Booking Process](screenshots/BookingProcess.png)
 
 ### Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/AdminDashboard.png)
 
 ### Service Management
-
-![Service Management](screenshots/service-management.png)
+![Service Management](screenshots/ServiceManagement.png)
 
 ## 📚 What I Learned
 
